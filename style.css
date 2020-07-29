@@ -1,3 +1,10 @@
+body {
+  background-color: #000000;
+  background-size: cover;
+  background-attachment: fixed;
+  padding: 60px;
+}
+
 h1 {
   text-align: center;
 }
