@@ -3,24 +3,33 @@
 html {
     font-family: D-DIN, sans-serif;
     background-color: #121212;
-    color: white;
 }
 
 a {
     color: #2A456E;
 }
 
+h1 {
+	text-align: center;
+	text: green;
+}
+
+p {
+	text-align: center;
+	text: green;
+}
+
 body {
-    margin: 0;
-    position: relative;
+	margin: 0;
+	position: relative;
 }
 
 .main-container {
-    min-height: 100vh;
-    overflow: hidden;
-    display: block;
-    position: relative;
-    padding-bottom: 5.14vw;
+	min-height: 100vh;
+	overflow: hidden;
+	display: block;
+	position: relative;
+	padding-bottom: 5.14vw;
 }
 
 ::-webkit-scrollbar {
