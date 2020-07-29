@@ -20,15 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="de615d07-be24-480b-9b6f-210859511ba5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/css/font.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/D-DIN-Bold.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/D-DIN-Italic.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/D-DIN.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/D-DINCondensed-Bold.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/D-DINCondensed.otf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +75,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1596064512835</updated>
-      <workItem from="1596064514017" duration="960000" />
+      <workItem from="1596064514017" duration="1287000" />
     </task>
     <servers />
   </component>
