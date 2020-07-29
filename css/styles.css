@@ -1,0 +1,47 @@
+/* Common styles */
+
+html {
+    font-family: D-DIN, sans-serif;
+    background-color: #121212;
+    color: white;
+}
+
+a {
+    color: #2A456E;
+}
+
+body {
+    margin: 0;
+    position: relative;
+}
+
+.main-container {
+    min-height: 100vh;
+    overflow: hidden;
+    display: block;
+    position: relative;
+    padding-bottom: 5.14vw;
+}
+
+::-webkit-scrollbar {
+    background-color: #1c1e1f;
+    color: #c5c1b9;
+}
+::-webkit-scrollbar-thumb {
+    background-color: #2f3234;
+}
+::-webkit-scrollbar-thumb:hover {
+    background-color: #383b3e;
+}
+::-webkit-scrollbar-thumb:active {
+    background-color: #2A456E;
+}
+::-webkit-scrollbar-corner {
+    background-color: #181a1b;
+}
+
+@media only screen and (max-width: 1000px) {
+    .main-container {
+        padding-bottom: 40px;
+    }
+}
