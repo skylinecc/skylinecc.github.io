@@ -1,38 +1,26 @@
 /* Common styles */
 
 html {
-	font-family: D-DIN, sans-serif;
-}
-
-body {
-	background-color: black;
+    font-family: D-DIN, sans-serif;
+    background-color: #121212;
+    color: white;
 }
 
 a {
-	color: #40ff00;
-}
-
-h1 {
-	text-align: center;
-	color: #00ff00;
-}
-
-p {
-	text-align: center;
-	color: #00ff00;
+    color: #2A456E;
 }
 
 body {
-	margin: 0;
-	position: relative;
+    margin: 0;
+    position: relative;
 }
 
 .main-container {
-	min-height: 100vh;
-	overflow: hidden;
-	display: block;
-	position: relative;
-	padding-bottom: 5.14vw;
+    min-height: 100vh;
+    overflow: hidden;
+    display: block;
+    position: relative;
+    padding-bottom: 5.14vw;
 }
 
 ::-webkit-scrollbar {
@@ -56,32 +44,4 @@ body {
     .main-container {
         padding-bottom: 40px;
     }
-}
-
-@font-face {
-    font-family: 'D-DINCondensed';
-    src: url(../fonts/D-DINCondensed-Bold.otf);
-    font-weight: bold;
-}
-
-@font-face {
-    font-family: 'D-DINCondensed';
-    src: url(../fonts/D-DINCondensed.otf);
-}
-
-@font-face {
-    font-family: 'D-DIN';
-    src: url(../fonts/D-DIN-Italic.otf);
-    font-style: italic;
-}
-
-@font-face {
-    font-family: 'D-DIN';
-    src: url(../fonts/D-DIN-Bold.otf);
-    font-weight: bold;
-}
-
-@font-face {
-    font-family: 'D-DIN';
-    src: url(../fonts/D-DIN.otf);
 }
