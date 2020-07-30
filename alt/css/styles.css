@@ -1,34 +1,38 @@
 /* Common styles */
 
 html {
-	font-family: D-DIN, sans-serif;
+    font-family: D-DIN, sans-serif;
 }
 
 body {
-	background-color: black;
+    background-color: black;
 }
 
 a {
-	color: #40ff00;
+    color: #40ff00;
 }
 
 h1 {
-	text-align: center;
-	color: #00ff00;
+    text-align: center;
+    color: #00ff00;
 }
 
 p {
-	text-align: center;
-	color: #00ff00;
-}
-
-body {
-	margin: 0;
-	position: relative;
+    text-align: center;
+    color: #00ff00;
 }
 
 .return {
-	text-align: left;
+    text-align: left;
+}
+
+body {
+    margin: 0;
+    position: relative;
+}
+
+.return {
+    text-align: left;
 }
 
 ::-webkit-scrollbar {
