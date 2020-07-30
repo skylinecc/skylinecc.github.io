@@ -30,6 +30,12 @@ body {
 .blinking {
 	animation:blinking 1.5s infinite;
 }
+
+@keyframes blinking{
+	0%{	color: #00ff00;	}
+	50%{	color: transparent;	}
+	100%{	color: #00ff00;	}
+}
 	
 ::-webkit-scrollbar {
     background-color: #1c1e1f;
