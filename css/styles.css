@@ -3,20 +3,25 @@
 html {
 	font-family: D-DIN, sans-serif;
 }
+
 body {
 	background-color: black;
 }
+
 a {
-	color: #2A456E;
+	color: #40ff00;
 }
+
 h1 {
 	text-align: center;
-	color: white;
+	color: #00ff00;
 }
+
 p {
 	text-align: center;
-	color: white;
+	color: #00ff00;
 }
+
 body {
 	margin: 0;
 	position: relative;
