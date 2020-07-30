@@ -22,17 +22,9 @@ p {
     color: #00ff00;
 }
 
-.return {
-    text-align: left;
-}
-
 body {
     margin: 0;
     position: relative;
-}
-
-.return {
-    text-align: left;
 }
 
 ::-webkit-scrollbar {
