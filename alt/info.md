@@ -1,4 +1,4 @@
-<span id="a">grant@website</span>:<span id="c">~$</span> cat info.md<br/><br/>
+<span id="a">user@website</span>:<span id="c">~$</span> cat info.md<br/><br/>
 <a href="/">Return to Home</a></p>
 <h1># Skyline Coding Club</h1>
 <p>Skyline High School, Utah</p>
