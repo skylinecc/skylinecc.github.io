@@ -1,24 +1,22 @@
 /* Common styles */
 
 html {
-    font-family: D-DIN, sans-serif;
-    background-color: #121212;
+	font-family: D-DIN, sans-serif;
 }
-
+body {
+	background-color: black;
+}
 a {
-    color: #2A456E;
+	color: #2A456E;
 }
-
 h1 {
 	text-align: center;
 	text: #00CF01;
 }
-
 p {
 	text-align: center;
 	text: #00CF01;
 }
-
 body {
 	margin: 0;
 	position: relative;
