@@ -27,12 +27,8 @@ body {
 	position: relative;
 }
 
-.main-container {
-	min-height: 100vh;
-	overflow: hidden;
-	display: block;
-	position: relative;
-	padding-bottom: 5.14vw;
+.return {
+	text-align: left;
 }
 
 ::-webkit-scrollbar {
