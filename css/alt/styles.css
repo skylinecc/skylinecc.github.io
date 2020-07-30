@@ -28,7 +28,7 @@ body {
 }
 
 .blinking {
-	animation:blinking 1.5s infinite;
+	animation:blinking 1s infinite;
 }
 
 @keyframes blinking{
