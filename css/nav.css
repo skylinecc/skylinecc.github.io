@@ -9,7 +9,16 @@
     min-width: 21.5vw;
 }
 
-.nav .logo-wrapper a img {
+
+.nav .left .logo-wrapper {
+    float: left;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    margin-left: auto;
+}
+.nav .left .logo-wrapper a img {
+    display: inline;
     max-width: 40px;
     max-height: 40px;
     border: 2px solid #2A456E;
@@ -20,11 +29,23 @@
     float: left;
     color: white;
     text-align: center;
+
     padding: 16px 18px;
     text-decoration: none;
     font-size: 18px;
 }
 
+
+.nav .left a {
+    display: inline;
+    float: left;
+    color: white;
+    text-align: center;
+    padding: 16px 18px;
+    text-decoration: none;
+    font-size: 18px;
+    margin-left: auto;
+}
 .nav a:hover {
     background-color: #1B1B1B;
 }
